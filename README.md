@@ -65,4 +65,4 @@ As you progress, each week's folder also holds the code you write for that week.
 
 ## License
 
-MIT — use, fork, and adapt freely.
+Free- For/Clone and start learning
